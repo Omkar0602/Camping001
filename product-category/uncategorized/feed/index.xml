@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Uncategorized -</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sun, 06 Feb 2022 07:25:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">202480624</site>	<item>
+		<title>fried rice</title>
+		<link>./../../../product/fried-rice/index.html</link>
+					<comments>./../../../product/fried-rice/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[legendok0602]]></dc:creator>
+		<pubDate>Sat, 05 Feb 2022 20:17:02 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=4555</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/fried-rice/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4555</post-id>	</item>
+		<item>
+		<title>Chicken Roll</title>
+		<link>./../../../product/chicken-roll/index.html</link>
+					<comments>./../../../product/chicken-roll/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[legendok0602]]></dc:creator>
+		<pubDate>Fri, 04 Feb 2022 14:19:12 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=4550</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/chicken-roll/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4550</post-id>	</item>
+		<item>
+		<title>Chicken 65</title>
+		<link>./../../../product/chicken-65/index.html</link>
+					<comments>./../../../product/chicken-65/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[legendok0602]]></dc:creator>
+		<pubDate>Fri, 04 Feb 2022 12:26:26 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=4545</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/chicken-65/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4545</post-id>	</item>
+		<item>
+		<title>Chicken Lollipop</title>
+		<link>./../../../product/chicken-lollipop/index.html</link>
+					<comments>./../../../product/chicken-lollipop/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[legendok0602]]></dc:creator>
+		<pubDate>Fri, 04 Feb 2022 12:03:24 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=4533</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/chicken-lollipop/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4533</post-id>	</item>
+	</channel>
+</rss>
